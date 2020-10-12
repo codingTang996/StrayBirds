@@ -1,3 +1,4 @@
+encoding: UTF-8
 Skip to content
 Search or jump to…
 
@@ -149,7 +150,7 @@ disqus:
 #################################### global configure #######################################
 
 username: codingTang996
-baseurl: /StrayBirds
+baseurl: /blog
 markdown: redcarpet
 safe: false
 highlighter: pygments
